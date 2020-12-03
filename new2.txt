@@ -1,4 +1,8 @@
-this is second file"
+this is third file
+this is second file
+one more
+two more
+three more
 
 merge conflict added
 
