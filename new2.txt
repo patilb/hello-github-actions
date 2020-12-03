@@ -1,4 +1,4 @@
 this is second file"
 
-new text added
+merge conflict added
 
