@@ -1,4 +1,0 @@
-this is second file"
-
-merge conflict added
-
